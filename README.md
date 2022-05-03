@@ -6,7 +6,7 @@
 ## Wymagania:
 - Signal Processing Toolbox
 
-## Okno wyboru typu filtra NOI:
+## Okno wyboru rodzaju filtra typu NOI:
 ![image](https://user-images.githubusercontent.com/79996325/166515035-61e8863a-0597-4fc0-870b-e9502e30addb.png)
 
 ## Okno główne programu:
